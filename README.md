@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NishanHolla
 - 👀 I’m interested in ...Machine Learning
-- 🌱 I’m currently learning ...Web Developement
+- 🌱 I’m currently learning ...App Developement
 - 💞️ I’m looking to collaborate on ...Machine Learning
 - 📫 How to reach me ...hollanishan@gmail.com
 
