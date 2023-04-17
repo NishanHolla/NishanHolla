@@ -78,7 +78,7 @@ I will be more than happy to recommend Sarthak if you are looking for someone wi
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/neeraj-patil-42a028236/"><b>Neeraj R Patil</b></a></td>
-		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Sarthak was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
+		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
 		<td>Codechef, Competitive Programming</td>
 	</tr>
 	
@@ -87,7 +87,7 @@ I will be more than happy to recommend Sarthak if you are looking for someone wi
 		<td><a href="https://www.linkedin.com/in/urvashi-bhargava-b66100262/"><b>Urvashi Bhargava</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
-If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
+If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
 	
@@ -95,10 +95,10 @@ If your looking for anyone to spice up your experience, Sarthak is who I would r
 		<td><a href="https://www.linkedin.com/in/jay-shah-b362a0217/"><b>Jay Shah</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
-If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
+If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
-	<table>
+</table>
 <hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
