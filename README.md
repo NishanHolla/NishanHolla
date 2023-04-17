@@ -59,45 +59,6 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 </tr>
 </table>
 <hr>
-
-<!-- ## 🥇 Open Source Projects-Open for Contributions
-[![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat&logo=github)](https://github.com/SarthakSKumar) [![Open Source Love](https://img.shields.io/badge/Open%20Source-%F0%9F%A4%8D-Green)](https://github.com/SarthakSKumar)
-| Project:octocat: | Stars✨| Forks🍴 | Issues🐛 | Open PRs:bell: | Closed PRs:fire:
-|----------------- |-------------------|---|---|---|---
-| [**IoT Projects and Scripts**](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/IoT-Projects-and-Scripts?style=flat-square)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/IoT-Projects-and-Scripts?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pulls?q=is%3Apr+is%3Aclosed)
-| [**Chatroom-App**](https://github.com/SarthakSKumar/Chatroom-App) | [![GitHub Stars](https://img.shields.io/github/stars/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/stars) | [![GitHub Forks](https://img.shields.io/github/forks/SarthakSKumar/Chatroom-App?style=flat-square&labelColor=343b41)](https://github.com/SarthakSKumar/Chatroom-App/forks) | [![GitHub Issues](https://img.shields.io/github/issues/SarthakSKumar/Chatroom-App?style=flat-square)](https://github.com/SarthakSKumar/Chatroom-App/issues) | [![GitHub Open Pull Requests](https://img.shields.io/github/issues-pr/SarthakSKumar/Chatroom-App?style=flat&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls) | [![GitHub Closed Pull Requests](https://img.shields.io/github/issues-pr-closed/SarthakSKumar/Chatroom-App?style=flat&color=critical&logo=github)](https://github.com/SarthakSKumar/Chatroom-App/pulls?q=is%3Apr+is%3Aclosed)
-<hr>
- -->
-## 📊 Metrics
-<table>
-	<tr>
-		<td colspan = "2"><a href = "https://sarthakskumar.bio.link"><img src="https://github-readme-activity-graph.cyclic.app/graph?username=SarthakSKumar&bg_color=2e3440&hide_border=true&point=false&line=88c0d0&radius=8&area=true&area_color=88c0d0&title_color=ffffff&color=ffffff"></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://linkedin.com/in/sarthakskumar"><img src="https://github-readme-stats.vercel.app/api?username=SarthakSKumar&hide_border=true&include_all_commits=true&count_private=true&show_icons=true&line_height=20&theme=nord"></a></td>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
-	</tr>
-	<tr>
-		<td colspan = "2"><a href="https://instagram.com/nishan_holla"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></a></td>
-	</tr>
-	<tr>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
-		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/2b3045cc-3591-4c2d-bc9e-9218d8fd8117.svg"></a>			</td>
-	</tr>
-	</table>
-<hr>
-	
-## ✒️ Recent GitHub Activity
-<!--START_SECTION:activity-->
-1. 💪 Opened PR [#21](https://github.com/hack2skill/electhon-submission/pull/21) in [hack2skill/electhon-submission](https://github.com/hack2skill/electhon-submission)
-2. ❗️ Closed issue [#73](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/issues/73) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-3. 🎉 Merged PR [#79](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts/pull/79) in [SarthakSKumar/IoT-Projects-and-Scripts](https://github.com/SarthakSKumar/IoT-Projects-and-Scripts)
-4. 🎉 Merged PR [#15](https://github.com/SarthakSKumar/IoTforHire-Website/pull/15) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-5. 🗣 Commented on [#14](https://github.com/SarthakSKumar/IoTforHire-Website/issues/14) in [SarthakSKumar/IoTforHire-Website](https://github.com/SarthakSKumar/IoTforHire-Website)
-<!--END_SECTION:activity-->
-  </b>
-<hr>
-
 ## 📝 Testimonials
 <table>
 	<tr align="center">
