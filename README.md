@@ -90,15 +90,16 @@ If your looking for anyone to spice up your experience, Nishan is who I would re
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
 	
-	<tr>
+<!-- 	<tr>
 		<td><a href="https://www.linkedin.com/in/jay-shah-b362a0217/"><b>Jay Shah</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
 If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
-	</tr>
-	<table>
+	</tr> -->
+</table>
 <hr>
+	
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
