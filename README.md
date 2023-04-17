@@ -85,8 +85,8 @@ I will be more than happy to recommend Nishan if you are looking for someone wit
 	<tr>
 		<td><a href="https://www.linkedin.com/in/urvashi-bhargava-b66100262/"><b>Urvashi Bhargava</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
-Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
-If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
+		Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
+		If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
 	
