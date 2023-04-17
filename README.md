@@ -106,22 +106,16 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td><b>Designation/Activity</b></td>
 	</tr>
 	<tr>
-		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Neeraj Patil</b></a></td>
+		<td><a href="https://www.linkedin.com/in/neeraj-patil-42a028236/"><b>Neeraj Patil</b></a></td>
 		<td>Nishan is very hard working and has deep knowledge in full stack developemnt everyone should have a look at his repository to know what i am talking about.</td>
 		<td>Codechef Competitive Programming</td>
 	</tr>
 	<tr>
-		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
-		<td>If anyone one is looking for creative minded programmer then you must take a look at nishans profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
-		<td>Digital Marketing, Copywriting</td>
+		<td><a href="https://www.linkedin.com/in/sarthakskumar/"><b>Sarthak S Kumar</b></a></td>
+		<td>If anyone one is looking for creative minded programmer then you must take a look at nishans profile. My work experience with Nishan was filled with creativity and fun. A coder full of passion and excitement.</td>
+		<td>GFG Campus Mantri</td>
 	</tr>
-	<tr>
-		<td><a href="https://www.linkedin.com/in/sherone-d-souza-9a497b180"><b>Sherone D'Souza</b></a></td>
-		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
-Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
-If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
-		<td>CSE Student, MIT Manipal</td>
-	</tr>
+		
 	<table>
 <hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
