@@ -9,8 +9,8 @@ or use it. It helps me a lot.
 <b>A 19-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
-
-<a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a>
+<!-- 
+<a href = "https://app.daily.dev/sarthakskumar"><img align = "right" src="https://api.daily.dev/devcards/4acca7dd7d934f94b0b4753f12c44494.png?r=nmz" width="250" alt="Sarthak S Kumar's Dev Card"></a> -->
 
 - 🔭 Check out my <a href="https://sarthakskumar.github.io"><b>Portfolio Website</b></a>
 - 🌱 I look for opportunities to use my skills to solve challenging real-world problems.
