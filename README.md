@@ -19,8 +19,8 @@ I conduct workshops, events, and collaborative programs in science, innovation, 
 <hr>
 
 ## 📩 Connect with me
-Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:sskworld9742@gmail.com"><b>here</b><br><br>
-<a href = "https://linkedin.com/in/nishanholla"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
+Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm always open for a conversation!!✔ Shoot me an email <a href = "mailto:hollanishan@gmail.com"><b>here</b><br><br>
+<a href = "https://www.linkedin.com/in/nishan-holla-36a4891a7/"><img src = "https://skillicons.dev/icons?i=linkedin&theme=dark" height = 38></a>
 <a href = "https://instagram.com/nishan_holla"><img src = "https://skillicons.dev/icons?i=instagram&theme=dark" height = 38></a>
 	
 <hr>
@@ -78,7 +78,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=sarthakskumar&langs_count=6&hide_border=true&border_radius=4.5&layout=compact&theme=nord"></a></td>
 	</tr>
 	<tr>
-		<td colspan = "2"><a href="https://instagram.com/sarthakskumar"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></a></td>
+		<td colspan = "2"><a href="https://instagram.com/nishan_holla"><img width=100% src="https://github-profile-trophy.vercel.app/?username=SarthakSKumar&hide_border=true&count_private=true&column=8&theme=nord&no-frame=true"></a></td>
 	</tr>
 	<tr>
 		<td><a href="https://wakatime.com/@sarthakskumar"><img src="https://wakatime.com/share/@sarthakskumar/7d17f360-8efd-4581-8466-2a44cd850351.svg"></a>			</td>
@@ -107,7 +107,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Ritika Chauhan</b></a></td>
-		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
+		<td>Nishan joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
 He was very proactive and great team player throughout his internship. 
 He always gave suggestions in ways the work cultute can be improved for the comapny and to become more accommodating for all.
 I will be more than happy to recommend Sarthak if you are looking for someone with enduring dedication towards his work.</td>
@@ -115,12 +115,12 @@ I will be more than happy to recommend Sarthak if you are looking for someone wi
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
-		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Sarthak was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
+		<td>If anyone one is looking for creative minded programmer then you must take a look at nishans profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
 		<td>Digital Marketing, Copywriting</td>
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/sherone-d-souza-9a497b180"><b>Sherone D'Souza</b></a></td>
-		<td>Talented yet creative, Sarthak is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
+		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
 If your looking for anyone to spice up your experience, Sarthak is who I would recommend.</td>
 		<td>CSE Student, MIT Manipal</td>
