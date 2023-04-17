@@ -87,14 +87,20 @@ I will be more than happy to recommend Nishan if you are looking for someone wit
 		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
 		<td>Codechef, Competitive Programming</td>
 	</tr>
-	
-<!-- 	<tr>
+	<tr>
+		<td><a href="https://www.linkedin.com/in/urvashi-bhargava-b66100262/"><b>Urvashi Bhargava</b></a></td>
+		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
+Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
+If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
+		<td>CSE Student, PESU Bangalore</td>
+	</tr>
+	<tr>
 		<td><a href="https://www.linkedin.com/in/jay-shah-b362a0217/"><b>Jay Shah</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
 Besides having a great sense of humor he is a systematic organizer and an innovative programmer.
 If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
-	</tr> -->
+	</tr>
 </table>
 <hr>
 	
