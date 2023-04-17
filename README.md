@@ -106,12 +106,9 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td><b>Designation/Activity</b></td>
 	</tr>
 	<tr>
-		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Ritika Chauhan</b></a></td>
-		<td>Nishan joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
-He was very proactive and great team player throughout his internship. 
-He always gave suggestions in ways the work cultute can be improved for the comapny and to become more accommodating for all.
-I will be more than happy to recommend Sarthak if you are looking for someone with enduring dedication towards his work.</td>
-		<td>HR Executive</td>
+		<td><a href="https://www.linkedin.com/in/ritika-chauhan-687055208"><b>Neeraj Patil</b></a></td>
+		<td>Nishan is very hard working and has deep knowledge in full stack developemnt everyone should have a look at his repository to know what i am talking about.</td>
+		<td>Codechef Competitive Programming</td>
 	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/rajath-01b605213"><b>Rajath Kumar J</b></a></td>
