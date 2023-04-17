@@ -98,8 +98,6 @@ If your looking for anyone to spice up your experience, Nishan is who I would re
 </table>
 <hr>
 	
-<a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
-<hr>
 <div align = "center">
 <h3><b>Visitors Count 👁️</b></h3>
 <img width = 25% src = "https://profile-counter.glitch.me/{SarthakSKumar}/count.svg">
