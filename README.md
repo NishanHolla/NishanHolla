@@ -81,12 +81,6 @@ I will be more than happy to recommend Nishan if you are looking for someone wit
 		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
 		<td>Codechef, Competitive Programming</td>
 	</tr>
-	
-	<tr>
-		<td><a href="https://www.linkedin.com/in/neeraj-patil-42a028236/"><b>Neeraj R Patil</b></a></td>
-		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
-		<td>Codechef, Competitive Programming</td>
-	</tr>
 	<tr>
 		<td><a href="https://www.linkedin.com/in/urvashi-bhargava-b66100262/"><b>Urvashi Bhargava</b></a></td>
 		<td>Talented yet creative, Nishan is an out of the box thinker and a great leader. He is indeed a pleasure to work with.
