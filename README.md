@@ -73,7 +73,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		<td>Sarthak joined CS Mock as a campus manager, and he outshone from day one. His dedication towards work and work ethics are commendable. 
 He was very proactive and great team player throughout his internship. 
 He always gave suggestions in ways the work cultute can be improved for the comapny and to become more accommodating for all.
-I will be more than happy to recommend Sarthak if you are looking for someone with enduring dedication towards his work.</td>
+I will be more than happy to recommend Nishan if you are looking for someone with enduring dedication towards his work.</td>
 		<td>GeeksForGeeks Campus Mantri</td>
 	</tr>
 	<tr>
@@ -81,7 +81,6 @@ I will be more than happy to recommend Sarthak if you are looking for someone wi
 		<td>If anyone one is looking for creative minded programmer then you must take a look at sarthaks profile. My work experience with Nishan was filled with right guidance and satisfaction. A mentor , coder and a person with golden heart</td>
 		<td>Codechef, Competitive Programming</td>
 	</tr>
-	
 	
 	<tr>
 		<td><a href="https://www.linkedin.com/in/urvashi-bhargava-b66100262/"><b>Urvashi Bhargava</b></a></td>
@@ -98,7 +97,7 @@ Besides having a great sense of humor he is a systematic organizer and an innova
 If your looking for anyone to spice up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
-</table>
+	<table>
 <hr>
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
