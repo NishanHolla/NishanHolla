@@ -80,7 +80,7 @@ Don't hesitate to ping me🤝. If you are interested to discuss any further, I'm
 		
 	<table>
 <hr>
-<!-- 
+
 ## 📝 Testimonials
 <table>
 	<tr align="center">
@@ -109,7 +109,7 @@ If your looking for anyone to spice up your experience, Sarthak is who I would r
 		<td>CSE Student, MIT Manipal</td>
 	</tr>
 	<table>
-<hr>		 -->
+<hr>		
 <a href = "https://www.holopin.io/@sarthakskumar"><img src = "https://holopin.me/sarthakskumar"></a>
 <hr>
 <div align = "center">
