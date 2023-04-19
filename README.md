@@ -87,11 +87,6 @@ Besides having a great sense of humor he is a systematic organizer and an innova
 If your looking for anyone to hype up your experience, Nishan is who I would recommend.</td>
 		<td>CSE Student, PESU Bangalore</td>
 	</tr>
-	<tr>
-		<td><a href="https://www.linkedin.com/in/jay-shah-b362a0217/"><b>Jay Shah</b></a></td>
-		<td></td>
-		<td>CSE Student, PESU Bangalore</td>
-	</tr>
 </table>
 <hr>
 	
