@@ -6,7 +6,7 @@ or use it. It helps me a lot.
 <img src='banner.webp' alt="banner"></img>
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 # Hi, I am <a href = "https://www.linkedin.com/in/nishan-holla-36a4891a7/">Nishan</a>. Nice to see you here 👋
-<b>A 19-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
+<b>A 21-year-old, pursuing B.Tech in Computer Science from [PES University](https://www.pes.edu).</b><br>
 I am a passionate self-learner and an open-source enthusiast. I love exploring and building projects👨‍💻 using various technologies.<br>
 I conduct workshops, events, and collaborative programs in science, innovation, computers, entrepreneurship, etc.
 <!-- 
